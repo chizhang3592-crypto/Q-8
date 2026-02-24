@@ -1,0 +1,5 @@
+{
+  "name": "Q Crazy Eights",
+  "description": "A classic Crazy Eights card game built with React and Tailwind CSS. Play against a smart AI in this fast-paced matching game.",
+  "requestFramePermissions": []
+}
